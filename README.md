@@ -10,6 +10,9 @@ This is a collection of all the resources for the courses that me and my friends
 
 Venue: LA001
 
+prof: tara shankar shaw
+
+
 ### CH219 - Inorganic Chemistry Lab - I
 
 ### CH225 - Data Analysis for Chemists
