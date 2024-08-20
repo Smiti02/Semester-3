@@ -8,7 +8,7 @@ This is a collection of all the resources for the courses that me and my friends
 
 ### CH209 - Basic Organic Chemistry
 
-Venue: LA001
+**Venue:** LA001
 
 prof: tara shankar shaw
 
@@ -22,6 +22,17 @@ prof: tara shankar shaw
 ### CL205 - AI and Data Science
 
 ### EC101 - Economics
+
+**Venue:** LA001
+
+**Schedule:**
+
+- **Slot 2**
+  - **Days:** Monday, Tuesday, Thursday
+  - **Time:** 9:30 AM - 10:25 AM, 10:35 AM - 11:30 AM, 11:35 AM - 12:30 PM
+
+**Instructor:** Prof. Tara Shankar Shaw
+
 
 ### ES250 - Environmental Studies : Science and Engineering
 
