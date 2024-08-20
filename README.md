@@ -20,9 +20,15 @@ This is a collection of all the resources for the courses that me and my friends
 
 ### CH209 - Basic Organic Chemistry
 
-**Venue:** LA001
+**Venue:** 
 
-prof: tara shankar shaw
+**Schedule:**
+
+  - **Slot**
+    - **Days:** 
+    - **Time:**
+    
+**Instructor:** Prof. Venkateswarlu Yarlagadda
 
 
 ### CH219 - Inorganic Chemistry Lab - I
