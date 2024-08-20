@@ -6,6 +6,14 @@ This is a collection of all the resources for the courses that me and my friends
 
 ## Timetable
 
+| Day/Time | 8:30 - 9:25 | 9:30 - 10:25 | 10:35 - 10:55 | 11:05 - 11:30 | 11:35 - 12:30 | 2:00 - 3:25 | 3:30 - 4:55 |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Monday |  | EC101 |  |  |  |  |  |
+| Tuesday | Content Cell  | Content Cell  | EC101 | EC101 | Content Cell  | Content Cell  | Content Cell  |
+| Wednesday | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Thursday | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Friday | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+
 ## Course Logistics
 
 ### CH209 - Basic Organic Chemistry
