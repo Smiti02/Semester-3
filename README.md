@@ -10,11 +10,11 @@ This is a collection of all the resources for the courses that me and my friends
 
 | Day/Time | 8:30 - 9:25 | 9:30 - 10:25 | 10:35 - 10:55 | 11:05 - 11:30 | 11:35 - 12:30 | 2:00 - 3:25 | 3:30 - 4:55 |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Monday |  | EC101 |  |  |  |  |  |
-| Tuesday | Content Cell  | Content Cell  | EC101 | EC101 | Content Cell  | Content Cell  | Content Cell  |
-| Wednesday | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Thursday | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Friday | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Monday |  | EC101 | CH225 | CH225 | CL205 |  |  |
+| Tuesday | CL205 |  | EC101 | EC101 | CH225 |  |  |
+| Wednesday |  | Minor Slot | Minor Slot | CH209 | CH209 | CH219 | CH219 |
+| Thursday | CH225 | CL205 |  |  | EC101 |  |  |
+| Friday |  | Minor Slot | Minor Slot | CH209 | CH209 | CH231 | CH231 |
 
 ## Course Logistics
 
