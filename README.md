@@ -19,6 +19,14 @@ prof: tara shankar shaw
 
 ### CH225 - Data Analysis for Chemists
 
+**Venue:** LT205
+
+**Schedule:**
+
+  - **Slot **
+    - **Days:**
+    - **Time:**
+
 ### CH231 - Organic Chemistry Lab - I
 
 ### CL205 - AI and Data Science
@@ -29,11 +37,13 @@ prof: tara shankar shaw
 
 **Schedule:**
 
-- **Slot 2**
-  - **Days:** Monday, Tuesday, Thursday
-  - **Time:** 9:30 AM - 10:25 AM, 10:35 AM - 11:30 AM, 11:35 AM - 12:30 PM
+  - **Slot 2**
+    - **Days:** Monday, Tuesday, Thursday
+    - **Time:** 9:30 AM - 10:25 AM, 10:35 AM - 11:30 AM, 11:35 AM - 12:30 PM
 
-**Instructor:** Prof. Tara Shankar Shaw
+**Instructor:**
+  - Prof. Tara Shankar Shaw
+  - Prof. Aditi Balkrishna Chaubal
 
 
 ### ES250 - Environmental Studies : Science and Engineering
