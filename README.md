@@ -2,6 +2,11 @@
 
 This is a collection of all the resources for the courses that me and my friends studied in our first semester of the second year, i.e., the Autumn Semester of 2024
 
+> [!CAUTION]
+> This repository contains educational material for personal and academic use **only**. The textbooks included are intended for study and review purposes **only**. Users are responsible for ensuring that their use of this content complies with applicable copyright laws.
+>
+> If you own the copyright to any material in this repository and believe it should not be available here, please raise an issue, and we will promptly address the   issue.
+
 ## Upcoming Events
 
 - **CL205 Quiz 1:** Saturday, 24 August 2024
@@ -20,13 +25,13 @@ This is a collection of all the resources for the courses that me and my friends
 
 ### CH209 - Basic Organic Chemistry
 
-**Venue:** 
+**Venue:** LT204
 
 **Schedule:**
 
-  - **Slot**
-    - **Days:** 
-    - **Time:**
+  - **Slot 6**
+    - **Days:** Wednesday, Friday
+    - **Time:** 11:05 AM - 12:30 PM
     
 **Instructor:** Prof. Venkateswarlu Yarlagadda
 
@@ -47,13 +52,13 @@ This is a collection of all the resources for the courses that me and my friends
 
 ### CL205 - AI and Data Science
 
-**Venue:** 
+**Venue:** LH301
 
 **Schedule:**
 
-  - **Slot**
-    - **Days:** 
-    - **Time:**
+  - **Slot 4**
+    - **Days:** Monday, Tuesday, Thursday
+    - **Time:** 11:35 AM - 12:30 PM, 8:30 AM - 9:25 AM, 9:30 AM - 10:25 AM
     
 **Instructor:** Prof. Mani Bhushan
 
