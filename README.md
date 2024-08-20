@@ -31,13 +31,24 @@ prof: tara shankar shaw
 
 **Schedule:**
 
-  - **Slot **
+  - **Slot**
     - **Days:**
     - **Time:**
 
 ### CH231 - Organic Chemistry Lab - I
 
 ### CL205 - AI and Data Science
+
+**Venue:** 
+
+**Schedule:**
+
+  - **Slot**
+    - **Days:** 
+    - **Time:**
+    
+**Instructor:** Prof. Mani Bhushan
+
 
 ### EC101 - Economics
 
